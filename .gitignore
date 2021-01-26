@@ -15,3 +15,6 @@ sw.*
 sw.js
 
 /static/sw.js
+
+# Local Netlify folder
+.netlify

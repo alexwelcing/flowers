@@ -10,24 +10,24 @@ Bael runs using [Nuxt.js](https://nuxtjs.org), [Vue.js](https://vuejs.org), [Net
 
 ## Deploy to Netlify
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/jake-101/bael-template)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/alexwelcing/flowers)
 
 
 ## Build Setup
 
 ``` bash
 # install dependencies
-$ npm install # Or yarn install
+$ yarn install # Or npm install
 
 # serve with hot reload at localhost:3000
-$ npm run dev
+$ yarn dev
 
 # build for production and launch server
-$ npm run build
-$ npm start
+$ yarn build
+$ yarn start
 
 # generate static project
-$ npm run generate
+$ yarn generate
 ```
 
 ## Edit content
@@ -44,4 +44,3 @@ So If you create a `folder` type with Netlify CMS, add the folder as glob to the
 in the `nuxt.config.js`.
 
 MIT License
-
