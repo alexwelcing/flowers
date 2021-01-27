@@ -1,6 +1,6 @@
 {
   "name": "flower-net-cms",
-  "version": "0.1.0 dev",
+  "version": "0.1.1 dev",
   "description": "Adapted from jake101 Nuxt.JS Netlify templated. Simple post and host.",
   "author": "pirates <sail@yarr>",
   "scripts": {
