@@ -19,3 +19,4 @@ sw.js
 # Local Netlify folder
 .netlify
 static/sw.js
+static/sw.js
