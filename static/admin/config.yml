@@ -19,9 +19,9 @@ collections:
       - {label: "Featured Image", name: "thumbnail", widget: "image", required: false}
       - {label: "Category", name: "category", widget: "relation", collection: "blogcategories", searchFields: ["title"], valueField: "title", displayFields: ["title"], required: false}
       - {label: "Body", name: "body", widget: "markdown"}
-  - name: "flowers" # Used in routes, e.g., /admin/collections/flowers
+  - name: "category" # Used in routes, e.g., /admin/collections/flowers
     label: "flowers" # Used in the UI
-    folder: "content/flowers" # The path to the folder where the documents are stored
+    folder: "content/category" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     format: 'frontmatter'
