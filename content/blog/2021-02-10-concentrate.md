@@ -1,7 +1,7 @@
 ---
-  title: My House Title Sequence
-  date: Tuesday July 17th, 2018
-  category: Design
+  title: Concentrates 101
+  date: Wednesday February 10th, 2021
+  category: Concentrate
 ---
 
 <iframe src="https://player.vimeo.com/video/264297998" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
